@@ -27,7 +27,7 @@ function Hero() {
         Breakdown of your Instagram data. Swipeable story cards, real insights,
         shareable PNGs. Everything runs in your browser and your data never
         leaves your device. If you don't trust it then you can run the source
-        code yourself.
+        code yourself. https://github.com/edwardsungswe/InstagramWrapped
       </p>
       <div className="mt-10">
         <Link

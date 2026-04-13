@@ -81,17 +81,6 @@ Produces a fully static export in `out/`. Serve it with any static file server:
 npx serve out
 ```
 
-### Deploy
-
-The `out/` directory can be deployed to any static hosting:
-
-- **Vercel** — connect your GitHub repo; Vercel auto-detects Next.js static export
-- **Cloudflare Pages** — build command: `npm run build`, output directory: `out`
-- **GitHub Pages** — push the `out/` directory
-- **Any static host** — just upload the `out/` folder
-
-No environment variables, no edge functions, no API routes — pure static files.
-
 ## Tech stack
 
 | Layer             | Technology                                                                      |
